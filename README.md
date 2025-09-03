@@ -20,6 +20,8 @@ git push origin main
 ````
 git diff
 ````
+## this help you to see what changes have you did in your file .
+
 ````
 git show <commit id > <file-name>
 ````
