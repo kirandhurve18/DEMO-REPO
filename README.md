@@ -20,3 +20,6 @@ git push origin main
 ````
 git diff
 ````
+````
+git show <commit id > <file-name>
+````
