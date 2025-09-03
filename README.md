@@ -1,5 +1,6 @@
 ## DELETED FILES .
-If you deleted from the gitbash you need to add the files through 
+If you deleted from the gitbash , but its not reflected in github so for that you need to first add and then commit . 
+so the changes will reflect in the github .
 ````
 git add -A 
 ````
