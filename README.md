@@ -15,3 +15,8 @@ after that do
 ````
 git push origin main
 ````
+## This command is used to see the changes previous and new "git diff".
+
+````
+git diff
+````
